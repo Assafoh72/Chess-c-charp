@@ -1,0 +1,7 @@
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\bin\Debug\sichtoov 30July.exe.config
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\bin\Debug\sichtoov 30July.exe
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\bin\Debug\sichtoov 30July.pdb
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\obj\Debug\sichtoov 30July.csprojAssemblyReference.cache
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\obj\Debug\sichtoov 30July.csproj.CoreCompileInputs.cache
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\obj\Debug\sichtoov 30July.exe
+C:\Users\Assaf\source\repos\sichtoov 30July\sichtoov 30July\obj\Debug\sichtoov 30July.pdb
